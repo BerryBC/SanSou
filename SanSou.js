@@ -94,7 +94,7 @@ var strLogFileName = "";
 
 
 
-fs.readFile('G:\\Programme\\Working\\NodeJS\\Working\\SanSou\\ServerConfig.JSON', function (err, data) {
+fs.readFile('/home/Berry/SanSou/SanSou/ServerConfig.JSON', function (err, data) {
 	if (err) throw err;
 	HaveThePaper();
 	objJSONConfig = JSON.parse(data);
