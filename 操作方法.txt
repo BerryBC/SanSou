@@ -1,8 +1,8 @@
-ln /home/Berry/SanSou/SanSou/FrontWeb/index.html /var/www/html/index.html
-ln /home/Berry/SanSou/SanSou/FrontWeb/search.html /var/www/html/search.html
-ln /home/Berry/SanSou/SanSou/FrontWeb/JS /var/www/html/JS
-ln /home/Berry/SanSou/SanSou/FrontWeb/IMG /var/www/html/IMG
-ln /home/Berry/SanSou/SanSou/FrontWeb/CSS /var/www/html/CSS
+ln /home/Berry/SanSou/SanSou/FrontWeb/index.html /home/Berry/www/sansou/index.html
+ln /home/Berry/SanSou/SanSou/FrontWeb/search.html /home/Berry/www/sansou/search.html
+ln /home/Berry/SanSou/SanSou/FrontWeb/JS /home/Berry/www/sansou/JS
+ln /home/Berry/SanSou/SanSou/FrontWeb/IMG /home/Berry/www/sansou/IMG
+ln /home/Berry/SanSou/SanSou/FrontWeb/CSS /home/Berry/www/sansou/CSS
 
 
 ÖØÆô·þÎñ£º
@@ -14,3 +14,5 @@ supervisorctl restart SanSou
 
 
 /home/Berry/SanSou/SanSou/FrontWeb
+
+/home/Berry/www/sansou
