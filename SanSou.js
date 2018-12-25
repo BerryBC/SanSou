@@ -111,7 +111,6 @@ fs.readFile('G:\\Programme\\Working\\NodeJS\\Working\\SanSou\\ServerConfig.JSON'
 	var httpSearchServer = http.createServer(function (req, res) {
 		var strGetURL = url.parse(req.url).pathname;
 		//分辨不同的请求
-		console.log("这个收到信息了");
 		if (strGetURL == "/search") {
 			SearchMainFunction(req, res);
 		} else if (strGetURL == "/loadconfig") {
@@ -135,7 +134,7 @@ fs.readFile('G:\\Programme\\Working\\NodeJS\\Working\\SanSou\\ServerConfig.JSON'
 
 function SearchMainFunction(hsReq, hsRes) {
 	hsRes.writeHeader(200, { "Content-Type": "text/plain", "charset": "UTF-8", "Access-Control-Allow-Origin": "*", "Access-Control-Allow-Methods": "POST,GET" });
-	console.log("准备返回信息");
+
 	//配置反馈信息
 
 	//配置最终输出结果

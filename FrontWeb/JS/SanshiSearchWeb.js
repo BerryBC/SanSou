@@ -265,7 +265,7 @@ function PostKWToServer(intGoKW, intGoPage) {
 
             $.ajax({
                 type: "GET",
-                url: "http://" + window.location.host + strEnginePath + "search?kw=" + strQueryKW + "&pg=" + intGoPage + "&se=" + eleEngineConfig.SEName,
+                url: "http://65.49.218.188"  + strEnginePath + "search?kw=" + strQueryKW + "&pg=" + intGoPage + "&se=" + eleEngineConfig.SEName,
                 dataType: "json",
                 success: GetDataFromAjax,
                 error: function (XMLHttpRequest, textStatus, errorThrown) {
@@ -283,7 +283,7 @@ function PostKWToServer(intGoKW, intGoPage) {
 function GetTheUnique() {
     $.ajax({
         type: "GET",
-        url: "http://" + window.location.host + strEnginePath + "loadconfig",
+        url: "http://65.49.218.188"  + strEnginePath + "loadconfig",
         dataType: "json",
         success: ReceiveConfig,
         error: function (XMLHttpRequest, textStatus, errorThrown) {
