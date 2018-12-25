@@ -3,7 +3,7 @@ addEventListener("load", initAll, false);
 function initAll() {
     $.ajax({
         type: "GET",
-        url: "http://" + window.location.host  + "/sansouport/loadbgp",
+        url: "https://" + window.location.host  + "/sansouport/loadbgp",
         dataType: "json",
         success: ReceiveBGP,
         error: function (XMLHttpRequest, textStatus, errorThrown) {
