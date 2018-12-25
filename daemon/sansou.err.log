@@ -1,0 +1,348 @@
+double callback!
+double callback!
+double callback!
+double callback!
+double callback!
+double callback!
+double callback!
+double callback!
+double callback!
+double callback!
+double callback!
+double callback!
+double callback!
+double callback!
+double callback!
+double callback!
+double callback!
+double callback!
+double callback!
+undefined:1
+window.baidu.sug({&quot;q&quot;:&quot;what&quot;,&quot;p&quot;:false,&quot;bs&quot;:&quot;&quot;,&quot;csor&quot;:&quot;0&quot;,&quot;status&quot;:0,&quot;g&quot;:[ { &quot;q&quot;: &quot;whatsapp&quot;, &quot;t&quot;: &quot;n&quot;, &quot;st&quot;: { &quot;q&quot;: &quot;whatsapp&quot;, &quot;new&quot;: 0 } }, { &quot;q&quot;: &quot;whatsapp web&#xFFFD;&#xFFFD;&#x4B3;&#xFFFD;&#xFFFD;&quot;, &quot;t&quot;: &quot;n&quot;, &quot;st&quot;: { &quot;q&quot;: &quot;whatsapp web&#xFFFD;&#xFFFD;&#x4B3;&#xFFFD;&#xFFFD;&quot;, &quot;new&quot;: 0 } }, { &quot;q&quot;: &quot;whatsapp&#xFFFD;&#xFFFD;&#x4B3;&#xFFFD;&#xFFFD;&quot;, &quot;t&quot;: &quot;n&quot;, &quot;st&quot;: { &quot;q&quot;: &quot;whatsapp&#xFFFD;&#xFFFD;&#x4B3;&#xFFFD;&#xFFFD;&quot;, &quot;new&quot;: 0 } }, { &quot;q&quot;: &quot;what are words&quot;, &quot;t&quot;: &quot;n&quot;, &quot;st&quot;: { &quot;q&quot;: &quot;what are words&quot;, &quot;new&quot;: 0 } }, { &quot;q&quot;: &quot;what makes you beautiful&quot;, &quot;t&quot;: &quot;n
+
+SyntaxError: Unexpected token w in JSON at position 0
+    at Object.parse (native)
+    at G:\Programme\Working\NodeJS\Working\SanSou\SanSou.js:391:34
+    at Request.callback (G:\Programme\Working\NodeJS\Working\SanSou\node_modules\superagent\lib\node\index.js:591:12)
+    at Stream.<anonymous> (G:\Programme\Working\NodeJS\Working\SanSou\node_modules\superagent\lib\node\index.js:767:18)
+    at emitNone (events.js:86:13)
+    at Stream.emit (events.js:185:7)
+    at Unzip.<anonymous> (G:\Programme\Working\NodeJS\Working\SanSou\node_modules\superagent\lib\node\utils.js:108:12)
+    at emitNone (events.js:91:20)
+    at Unzip.emit (events.js:185:7)
+    at endReadableNT (_stream_readable.js:975:12)
+undefined:1
+window.baidu.sug({&quot;q&quot;:&quot;what&quot;,&quot;p&quot;:false,&quot;bs&quot;:&quot;&quot;,&quot;csor&quot;:&quot;0&quot;,&quot;status&quot;:0,&quot;g&quot;:[ { &quot;q&quot;: &quot;whatsapp&quot;, &quot;t&quot;: &quot;n&quot;, &quot;st&quot;: { &quot;q&quot;: &quot;whatsapp&quot;, &quot;new&quot;: 0 } }, { &quot;q&quot;: &quot;whatsapp web&#xFFFD;&#xFFFD;&#x4B3;&#xFFFD;&#xFFFD;&quot;, &quot;t&quot;: &quot;n&quot;, &quot;st&quot;: { &quot;q&quot;: &quot;whatsapp web&#xFFFD;&#xFFFD;&#x4B3;&#xFFFD;&#xFFFD;&quot;, &quot;new&quot;: 0 } }, { &quot;q&quot;: &quot;whatsapp&#xFFFD;&#xFFFD;&#x4B3;&#xFFFD;&#xFFFD;&quot;, &quot;t&quot;: &quot;n&quot;, &quot;st&quot;: { &quot;q&quot;: &quot;whatsapp&#xFFFD;&#xFFFD;&#x4B3;&#xFFFD;&#xFFFD;&quot;, &quot;new&quot;: 0 } }, { &quot;q&quot;: &quot;what are words&quot;, &quot;t&quot;: &quot;n&quot;, &quot;st&quot;: { &quot;q&quot;: &quot;what are words&quot;, &quot;new&quot;: 0 } }, { &quot;q&quot;: &quot;what makes you beautiful&quot;, &quot;t&quot;: &quot;n
+
+SyntaxError: Unexpected token w in JSON at position 0
+    at Object.parse (native)
+    at G:\Programme\Working\NodeJS\Working\SanSou\SanSou.js:391:34
+    at Request.callback (G:\Programme\Working\NodeJS\Working\SanSou\node_modules\superagent\lib\node\index.js:591:12)
+    at Stream.<anonymous> (G:\Programme\Working\NodeJS\Working\SanSou\node_modules\superagent\lib\node\index.js:767:18)
+    at emitNone (events.js:86:13)
+    at Stream.emit (events.js:185:7)
+    at Unzip.<anonymous> (G:\Programme\Working\NodeJS\Working\SanSou\node_modules\superagent\lib\node\utils.js:108:12)
+    at emitNone (events.js:91:20)
+    at Unzip.emit (events.js:185:7)
+    at endReadableNT (_stream_readable.js:975:12)
+undefined:1
+window.baidu.sug({&quot;q&quot;:&quot;what&quot;,&quot;p&quot;:false,&quot;bs&quot;:&quot;&quot;,&quot;csor&quot;:&quot;0&quot;,&quot;status&quot;:0,&quot;g&quot;:[ { &quot;q&quot;: &quot;whatsapp&quot;, &quot;t&quot;: &quot;n&quot;, &quot;st&quot;: { &quot;q&quot;: &quot;whatsapp&quot;, &quot;new&quot;: 0 } }, { &quot;q&quot;: &quot;whatsapp web&#xFFFD;&#xFFFD;&#x4B3;&#xFFFD;&#xFFFD;&quot;, &quot;t&quot;: &quot;n&quot;, &quot;st&quot;: { &quot;q&quot;: &quot;whatsapp web&#xFFFD;&#xFFFD;&#x4B3;&#xFFFD;&#xFFFD;&quot;, &quot;new&quot;: 0 } }, { &quot;q&quot;: &quot;whatsapp&#xFFFD;&#xFFFD;&#x4B3;&#xFFFD;&#xFFFD;&quot;, &quot;t&quot;: &quot;n&quot;, &quot;st&quot;: { &quot;q&quot;: &quot;whatsapp&#xFFFD;&#xFFFD;&#x4B3;&#xFFFD;&#xFFFD;&quot;, &quot;new&quot;: 0 } }, { &quot;q&quot;: &quot;what are words&quot;, &quot;t&quot;: &quot;n&quot;, &quot;st&quot;: { &quot;q&quot;: &quot;what are words&quot;, &quot;new&quot;: 0 } }, { &quot;q&quot;: &quot;what makes you beautiful&quot;, &quot;t&quot;: &quot;n
+
+SyntaxError: Unexpected token w in JSON at position 0
+    at Object.parse (native)
+    at G:\Programme\Working\NodeJS\Working\SanSou\SanSou.js:391:34
+    at Request.callback (G:\Programme\Working\NodeJS\Working\SanSou\node_modules\superagent\lib\node\index.js:591:12)
+    at Stream.<anonymous> (G:\Programme\Working\NodeJS\Working\SanSou\node_modules\superagent\lib\node\index.js:767:18)
+    at emitNone (events.js:86:13)
+    at Stream.emit (events.js:185:7)
+    at Unzip.<anonymous> (G:\Programme\Working\NodeJS\Working\SanSou\node_modules\superagent\lib\node\utils.js:108:12)
+    at emitNone (events.js:91:20)
+    at Unzip.emit (events.js:185:7)
+    at endReadableNT (_stream_readable.js:975:12)
+undefined:1
+window.baidu.sug({&quot;q&quot;:&quot;hell&quot;,&quot;p&quot;:false,&quot;bs&quot;:&quot;&quot;,&quot;csor&quot;:&quot;0&quot;,&quot;status&quot;:0,&quot;g&quot;:[ { &quot;q&quot;: &quot;hello&quot;, &quot;t&quot;: &quot;n&quot;, &quot;st&quot;: { &quot;q&quot;: &quot;hello&quot;, &quot;new&quot;: 0 } }, { &quot;q&quot;: &quot;hello kitty&quot;, &quot;t&quot;: &quot;n&quot;, &quot;st&quot;: { &quot;q&quot;: &quot;hello kitty&quot;, &quot;new&quot;: 0 } }, { &quot;q&quot;: &quot;hellobike&quot;, &quot;t&quot;: &quot;n&quot;, &quot;st&quot;: { &quot;q&quot;: &quot;hellobike&quot;, &quot;new&quot;: 0 } }, { &quot;q&quot;: &quot;hello world&quot;, &quot;t&quot;: &quot;n&quot;, &quot;st&quot;: { &quot;q&quot;: &quot;hello world&quot;, &quot;new&quot;: 0 } }, { &quot;q&quot;: &quot;hellcase&quot;, &quot;t&quot;: &quot;n&quot;, &quot;st&quot;: { &quot;q&quot;: &quot;hellcase&quot;, &quot;new&quot;: 0 } }, { &quot;q&quot;: &quot;hellsing&quot;, &quot;t&quot;: &quot;n&quot;, &quot;st&quot;: { &quot;q&qu
+
+SyntaxError: Unexpected token w in JSON at position 0
+    at Object.parse (native)
+    at G:\Programme\Working\NodeJS\Working\SanSou\SanSou.js:391:34
+    at Request.callback (G:\Programme\Working\NodeJS\Working\SanSou\node_modules\superagent\lib\node\index.js:591:12)
+    at Stream.<anonymous> (G:\Programme\Working\NodeJS\Working\SanSou\node_modules\superagent\lib\node\index.js:767:18)
+    at emitNone (events.js:86:13)
+    at Stream.emit (events.js:185:7)
+    at Unzip.<anonymous> (G:\Programme\Working\NodeJS\Working\SanSou\node_modules\superagent\lib\node\utils.js:108:12)
+    at emitNone (events.js:91:20)
+    at Unzip.emit (events.js:185:7)
+    at endReadableNT (_stream_readable.js:975:12)
+undefined:1
+window.baidu.sug({&quot;q&quot;:&quot;hell&quot;,&quot;p&quot;:false,&quot;bs&quot;:&quot;&quot;,&quot;csor&quot;:&quot;0&quot;,&quot;status&quot;:0,&quot;g&quot;:[ { &quot;q&quot;: &quot;hello&quot;, &quot;t&quot;: &quot;n&quot;, &quot;st&quot;: { &quot;q&quot;: &quot;hello&quot;, &quot;new&quot;: 0 } }, { &quot;q&quot;: &quot;hello kitty&quot;, &quot;t&quot;: &quot;n&quot;, &quot;st&quot;: { &quot;q&quot;: &quot;hello kitty&quot;, &quot;new&quot;: 0 } }, { &quot;q&quot;: &quot;hellobike&quot;, &quot;t&quot;: &quot;n&quot;, &quot;st&quot;: { &quot;q&quot;: &quot;hellobike&quot;, &quot;new&quot;: 0 } }, { &quot;q&quot;: &quot;hello world&quot;, &quot;t&quot;: &quot;n&quot;, &quot;st&quot;: { &quot;q&quot;: &quot;hello world&quot;, &quot;new&quot;: 0 } }, { &quot;q&quot;: &quot;hellcase&quot;, &quot;t&quot;: &quot;n&quot;, &quot;st&quot;: { &quot;q&quot;: &quot;hellcase&quot;, &quot;new&quot;: 0 } }, { &quot;q&quot;: &quot;hellsing&quot;, &quot;t&quot;: &quot;n&quot;, &quot;st&quot;: { &quot;q&qu
+
+SyntaxError: Unexpected token w in JSON at position 0
+    at Object.parse (native)
+    at G:\Programme\Working\NodeJS\Working\SanSou\SanSou.js:391:34
+    at Request.callback (G:\Programme\Working\NodeJS\Working\SanSou\node_modules\superagent\lib\node\index.js:591:12)
+    at Stream.<anonymous> (G:\Programme\Working\NodeJS\Working\SanSou\node_modules\superagent\lib\node\index.js:767:18)
+    at emitNone (events.js:86:13)
+    at Stream.emit (events.js:185:7)
+    at Unzip.<anonymous> (G:\Programme\Working\NodeJS\Working\SanSou\node_modules\superagent\lib\node\utils.js:108:12)
+    at emitNone (events.js:91:20)
+    at Unzip.emit (events.js:185:7)
+    at endReadableNT (_stream_readable.js:975:12)
+undefined:1
+window.baidu.sug({&quot;q&quot;:&quot;hell&quot;,&quot;p&quot;:false,&quot;bs&quot;:&quot;&quot;,&quot;csor&quot;:&quot;0&quot;,&quot;status&quot;:0,&quot;g&quot;:[ { &quot;q&quot;: &quot;hello&quot;, &quot;t&quot;: &quot;n&quot;, &quot;st&quot;: { &quot;q&quot;: &quot;hello&quot;, &quot;new&quot;: 0 } }, { &quot;q&quot;: &quot;hello kitty&quot;, &quot;t&quot;: &quot;n&quot;, &quot;st&quot;: { &quot;q&quot;: &quot;hello kitty&quot;, &quot;new&quot;: 0 } }, { &quot;q&quot;: &quot;hellobike&quot;, &quot;t&quot;: &quot;n&quot;, &quot;st&quot;: { &quot;q&quot;: &quot;hellobike&quot;, &quot;new&quot;: 0 } }, { &quot;q&quot;: &quot;hello world&quot;, &quot;t&quot;: &quot;n&quot;, &quot;st&quot;: { &quot;q&quot;: &quot;hello world&quot;, &quot;new&quot;: 0 } }, { &quot;q&quot;: &quot;hellcase&quot;, &quot;t&quot;: &quot;n&quot;, &quot;st&quot;: { &quot;q&quot;: &quot;hellcase&quot;, &quot;new&quot;: 0 } }, { &quot;q&quot;: &quot;hellsing&quot;, &quot;t&quot;: &quot;n&quot;, &quot;st&quot;: { &quot;q&qu
+
+SyntaxError: Unexpected token w in JSON at position 0
+    at Object.parse (native)
+    at G:\Programme\Working\NodeJS\Working\SanSou\SanSou.js:391:34
+    at Request.callback (G:\Programme\Working\NodeJS\Working\SanSou\node_modules\superagent\lib\node\index.js:591:12)
+    at Stream.<anonymous> (G:\Programme\Working\NodeJS\Working\SanSou\node_modules\superagent\lib\node\index.js:767:18)
+    at emitNone (events.js:86:13)
+    at Stream.emit (events.js:185:7)
+    at Unzip.<anonymous> (G:\Programme\Working\NodeJS\Working\SanSou\node_modules\superagent\lib\node\utils.js:108:12)
+    at emitNone (events.js:91:20)
+    at Unzip.emit (events.js:185:7)
+    at endReadableNT (_stream_readable.js:975:12)
+undefined:1
+window.baidu.sug({&quot;q&quot;:&quot;hell&quot;,&quot;p&quot;:false,&quot;bs&quot;:&quot;&quot;,&quot;csor&quot;:&quot;0&quot;,&quot;status&quot;:0,&quot;g&quot;:[ { &quot;q&quot;: &quot;hello&quot;, &quot;t&quot;: &quot;n&quot;, &quot;st&quot;: { &quot;q&quot;: &quot;hello&quot;, &quot;new&quot;: 0 } }, { &quot;q&quot;: &quot;hello kitty&quot;, &quot;t&quot;: &quot;n&quot;, &quot;st&quot;: { &quot;q&quot;: &quot;hello kitty&quot;, &quot;new&quot;: 0 } }, { &quot;q&quot;: &quot;hellobike&quot;, &quot;t&quot;: &quot;n&quot;, &quot;st&quot;: { &quot;q&quot;: &quot;hellobike&quot;, &quot;new&quot;: 0 } }, { &quot;q&quot;: &quot;hello world&quot;, &quot;t&quot;: &quot;n&quot;, &quot;st&quot;: { &quot;q&quot;: &quot;hello world&quot;, &quot;new&quot;: 0 } }, { &quot;q&quot;: &quot;hellcase&quot;, &quot;t&quot;: &quot;n&quot;, &quot;st&quot;: { &quot;q&quot;: &quot;hellcase&quot;, &quot;new&quot;: 0 } }, { &quot;q&quot;: &quot;hellsing&quot;, &quot;t&quot;: &quot;n&quot;, &quot;st&quot;: { &quot;q&qu
+
+SyntaxError: Unexpected token w in JSON at position 0
+    at Object.parse (native)
+    at G:\Programme\Working\NodeJS\Working\SanSou\SanSou.js:391:34
+    at Request.callback (G:\Programme\Working\NodeJS\Working\SanSou\node_modules\superagent\lib\node\index.js:591:12)
+    at Stream.<anonymous> (G:\Programme\Working\NodeJS\Working\SanSou\node_modules\superagent\lib\node\index.js:767:18)
+    at emitNone (events.js:86:13)
+    at Stream.emit (events.js:185:7)
+    at Unzip.<anonymous> (G:\Programme\Working\NodeJS\Working\SanSou\node_modules\superagent\lib\node\utils.js:108:12)
+    at emitNone (events.js:91:20)
+    at Unzip.emit (events.js:185:7)
+    at endReadableNT (_stream_readable.js:975:12)
+G:\Programme\Working\NodeJS\Working\SanSou\SanSou.js:409
+};
+ ^
+SyntaxError: Unexpected token ;
+    at Object.exports.runInThisContext (vm.js:76:16)
+    at Module._compile (module.js:513:28)
+    at Object.Module._extensions..js (module.js:550:10)
+    at Module.load (module.js:458:32)
+    at tryModuleLoad (module.js:417:12)
+    at Function.Module._load (module.js:409:3)
+    at Module.runMain (module.js:575:10)
+    at run (bootstrap_node.js:352:7)
+    at startup (bootstrap_node.js:144:9)
+    at bootstrap_node.js:467:3
+G:\Programme\Working\NodeJS\Working\SanSou\SanSou.js:409
+};
+ ^
+SyntaxError: Unexpected token ;
+    at Object.exports.runInThisContext (vm.js:76:16)
+    at Module._compile (module.js:513:28)
+    at Object.Module._extensions..js (module.js:550:10)
+    at Module.load (module.js:458:32)
+    at tryModuleLoad (module.js:417:12)
+    at Function.Module._load (module.js:409:3)
+    at Module.runMain (module.js:575:10)
+    at run (bootstrap_node.js:352:7)
+    at startup (bootstrap_node.js:144:9)
+    at bootstrap_node.js:467:3
+G:\Programme\Working\NodeJS\Working\SanSou\SanSou.js:409
+};
+ ^
+SyntaxError: Unexpected token ;
+    at Object.exports.runInThisContext (vm.js:76:16)
+    at Module._compile (module.js:513:28)
+    at Object.Module._extensions..js (module.js:550:10)
+    at Module.load (module.js:458:32)
+    at tryModuleLoad (module.js:417:12)
+    at Function.Module._load (module.js:409:3)
+    at Module.runMain (module.js:575:10)
+    at run (bootstrap_node.js:352:7)
+    at startup (bootstrap_node.js:144:9)
+    at bootstrap_node.js:467:3
+G:\Programme\Working\NodeJS\Working\SanSou\SanSou.js:409
+};
+ ^
+SyntaxError: Unexpected token ;
+    at Object.exports.runInThisContext (vm.js:76:16)
+    at Module._compile (module.js:513:28)
+    at Object.Module._extensions..js (module.js:550:10)
+    at Module.load (module.js:458:32)
+    at tryModuleLoad (module.js:417:12)
+    at Function.Module._load (module.js:409:3)
+    at Module.runMain (module.js:575:10)
+    at run (bootstrap_node.js:352:7)
+    at startup (bootstrap_node.js:144:9)
+    at bootstrap_node.js:467:3
+G:\Programme\Working\NodeJS\Working\SanSou\SanSou.js:409
+};
+ ^
+SyntaxError: Unexpected token ;
+    at Object.exports.runInThisContext (vm.js:76:16)
+    at Module._compile (module.js:513:28)
+    at Object.Module._extensions..js (module.js:550:10)
+    at Module.load (module.js:458:32)
+    at tryModuleLoad (module.js:417:12)
+    at Function.Module._load (module.js:409:3)
+    at Module.runMain (module.js:575:10)
+    at run (bootstrap_node.js:352:7)
+    at startup (bootstrap_node.js:144:9)
+    at bootstrap_node.js:467:3
+G:\Programme\Working\NodeJS\Working\SanSou\SanSou.js:409
+};
+ ^
+SyntaxError: Unexpected token ;
+    at Object.exports.runInThisContext (vm.js:76:16)
+    at Module._compile (module.js:513:28)
+    at Object.Module._extensions..js (module.js:550:10)
+    at Module.load (module.js:458:32)
+    at tryModuleLoad (module.js:417:12)
+    at Function.Module._load (module.js:409:3)
+    at Module.runMain (module.js:575:10)
+    at run (bootstrap_node.js:352:7)
+    at startup (bootstrap_node.js:144:9)
+    at bootstrap_node.js:467:3
+undefined:1
+{"q":"ni\'h","p":false,"bs":"","csor":"0","status":0,"g":[ { "q": "你好疯子", "t": "n", "st": { "q": "你好疯子", "new": 0 } }, { "q": "你好的日语", "t": "n", "st": { "q": "你好的日语", "new": 0 } }, { "q": "你好疯子豆瓣", "t": "n", "st": { "q": "你好疯子豆瓣", "new": 0 } }, { "q": "你画我猜", "t": "n", "st": { "q": "你画我猜", "new": 0 } }, { "q": "你好疯子影评", "t": "n", "st": { "q": "你好疯子影评", "new": 0 } }, { "q": "你好", "t": "n", "st": { "q": "你好", "new": 0 } }, { "q": "你还要我怎样", "t": "n", "st": { "q": "你还要我怎样", "new": 0 } }, { "q": "你会怎么做", "t": "n", "st": { "q": "你会怎么做", "new": 0 } }, { "q": "你好乔安", "t": "n", "st": { "q": "你好乔安", "new": 0 } }, { "q": "逆回购", "t": "n", "st": { "q": "逆回购", "new": 0 } } ],"s":["你好疯子","你好的日语","你好疯子豆瓣","你画我猜","你好疯子影评","你好","你还要我怎样","你会怎么做","你好乔安","�
+
+SyntaxError: Unexpected token ' in JSON at position 9
+    at Object.parse (native)
+    at G:\Programme\Working\NodeJS\Working\SanSou\SanSou.js:397:35
+    at Request.callback (G:\Programme\Working\NodeJS\Working\SanSou\node_modules\superagent\lib\node\index.js:591:12)
+    at G:\Programme\Working\NodeJS\Working\SanSou\node_modules\superagent\lib\node\index.js:767:18
+    at Stream.<anonymous> (G:\Programme\Working\NodeJS\Working\SanSou\node_modules\superagent-charset\index.js:77:11)
+    at emitNone (events.js:86:13)
+    at Stream.emit (events.js:185:7)
+    at Unzip.<anonymous> (G:\Programme\Working\NodeJS\Working\SanSou\node_modules\superagent\lib\node\utils.js:108:12)
+    at emitNone (events.js:91:20)
+    at Unzip.emit (events.js:185:7)
+undefined:1
+{"q":"tian\'sh","p":false,"bs":"","csor":"0","status":0,"g":[ { "q": "天使动漫", "t": "n", "st": { "q": "天使动漫", "new": 0 } }, { "q": "天上人间", "t": "n", "st": { "q": "天上人间", "new": 0 } }, { "q": "天数计算器", "t": "n", "st": { "q": "天数计算器", "new": 0 } }, { "q": "天水", "t": "n", "st": { "q": "天水", "new": 0 } }, { "q": "天使", "t": "n", "st": { "q": "天使", "new": 0 } }, { "q": "天山股份", "t": "n", "st": { "q": "天山股份", "new": 0 } }, { "q": "天书奇谈", "t": "n", "st": { "q": "天书奇谈", "new": 0 } }, { "q": "天使爱美丽", "t": "n", "st": { "q": "天使爱美丽", "new": 0 } }, { "q": "天师归来", "t": "n", "st": { "q": "天师归来", "new": 0 } }, { "q": "天使与龙的轮舞", "t": "n", "st": { "q": "天使与龙的轮舞", "new": 0 } } ],"s":["天使动漫","天上人间","天数计算器","天水","天使","天山股份","天书奇谈","天使爱美丽","天师归来","天使与龙的轮舞"]}
+           ^
+
+SyntaxError: Unexpected token ' in JSON at position 11
+    at Object.parse (native)
+    at G:\Programme\Working\NodeJS\Working\SanSou\SanSou.js:397:35
+    at Request.callback (G:\Programme\Working\NodeJS\Working\SanSou\node_modules\superagent\lib\node\index.js:591:12)
+    at G:\Programme\Working\NodeJS\Working\SanSou\node_modules\superagent\lib\node\index.js:767:18
+    at Stream.<anonymous> (G:\Programme\Working\NodeJS\Working\SanSou\node_modules\superagent-charset\index.js:77:11)
+    at emitNone (events.js:86:13)
+    at Stream.emit (events.js:185:7)
+    at Unzip.<anonymous> (G:\Programme\Working\NodeJS\Working\SanSou\node_modules\superagent\lib\node\utils.js:108:12)
+    at emitNone (events.js:91:20)
+    at Unzip.emit (events.js:185:7)
+undefined:1
+{"q":"tian\'sheng","p":false,"bs":"","csor":"0","status":0,"g":[ { "q": "天生是优我", "t": "n", "st": { "q": "天生是优我", "new": 0 } }, { "q": "天生一对", "t": "n", "st": { "q": "天生一对", "new": 0 } }, { "q": "天生杀人狂", "t": "n", "st": { "q": "天生杀人狂", "new": 0 } }, { "q": "天生要完美", "t": "n", "st": { "q": "天生要完美", "new": 0 } }, { "q": "天生我材必有用", "t": "n", "st": { "q": "天生我材必有用", "new": 0 } }, { "q": "天生丽质难自弃", "t": "n", "st": { "q": "天生丽质难自弃", "new": 0 } }, { "q": "天生神棍", "t": "n", "st": { "q": "天生神棍", "new": 0 } }, { "q": "天生神医", "t": "n", "st": { "q": "天生神医", "new": 0 } }, { "q": "天生吃货", "t": "n", "st": { "q": "天生吃货", "new": 0 } }, { "q": "天生凉薄", "t": "n", "st": { "q": "天生凉薄", "new": 0 } } ],"s":["天生是优我","天生一对","天生杀人狂","天生要完美","天生我材必有用","天生丽质难自弃","天生�
+
+SyntaxError: Unexpected token ' in JSON at position 11
+    at Object.parse (native)
+    at G:\Programme\Working\NodeJS\Working\SanSou\SanSou.js:397:35
+    at Request.callback (G:\Programme\Working\NodeJS\Working\SanSou\node_modules\superagent\lib\node\index.js:591:12)
+    at G:\Programme\Working\NodeJS\Working\SanSou\node_modules\superagent\lib\node\index.js:767:18
+    at Stream.<anonymous> (G:\Programme\Working\NodeJS\Working\SanSou\node_modules\superagent-charset\index.js:77:11)
+    at emitNone (events.js:86:13)
+    at Stream.emit (events.js:185:7)
+    at Unzip.<anonymous> (G:\Programme\Working\NodeJS\Working\SanSou\node_modules\superagent\lib\node\utils.js:108:12)
+    at emitNone (events.js:91:20)
+    at Unzip.emit (events.js:185:7)
+undefined:1
+{"q":"我bu\'zhi\'d","p":true,"bs":"","csor":"0","status":0,"g":[ { "q": "我不知道英文", "t": "n", "st": { "q": "我不知道英文", "new": 0 } }, { "q": "我不知道", "t": "n", "st": { "q": "我不知道", "new": 0 } }, { "q": "我不知道风是在哪一个方向吹", "t": "n", "st": { "q": "我不知道风是在哪一个方向吹", "new": 0 } }, { "q": "我不知道我是谁", "t": "n", "st": { "q": "我不知道我是谁", "new": 0 } }, { "q": "我不知道该说什么 关于死亡还是爱情", "t": "n", "st": { "q": "我不知道该说什么 关于死亡还是爱情", "new": 0 } }, { "q": "我不知道你在想什么还时那个地点那条街", "t": "n", "st": { "q": "我不知道你在想什么还时那个地点那条街", "new": 0 } }, { "q": "我不知道你在想什么", "t": "n", "st": { "q": "我不知道你在想什么", "new": 0 } }, { "q": "我不知道的事", "t": "n", "st": { "q": "我不知道的事", "new": 0 } }, { "q": "我不知道为什么这样 爱情不是我�
+
+SyntaxError: Unexpected token ' in JSON at position 10
+    at Object.parse (native)
+    at G:\Programme\Working\NodeJS\Working\SanSou\SanSou.js:397:35
+    at Request.callback (G:\Programme\Working\NodeJS\Working\SanSou\node_modules\superagent\lib\node\index.js:591:12)
+    at G:\Programme\Working\NodeJS\Working\SanSou\node_modules\superagent\lib\node\index.js:767:18
+    at Stream.<anonymous> (G:\Programme\Working\NodeJS\Working\SanSou\node_modules\superagent-charset\index.js:77:11)
+    at emitNone (events.js:86:13)
+    at Stream.emit (events.js:185:7)
+    at Unzip.<anonymous> (G:\Programme\Working\NodeJS\Working\SanSou\node_modules\superagent\lib\node\utils.js:108:12)
+    at emitNone (events.js:91:20)
+    at Unzip.emit (events.js:185:7)
+undefined:1
+{"q":"我bu\'zhi\'dao","p":true,"bs":"","csor":"0","status":0,"g":[ { "q": "我不知道英文", "t": "n", "st": { "q": "我不知道英文", "new": 0 } }, { "q": "我不知道", "t": "n", "st": { "q": "我不知道", "new": 0 } }, { "q": "我不知道风是在哪一个方向吹", "t": "n", "st": { "q": "我不知道风是在哪一个方向吹", "new": 0 } }, { "q": "我不知道我是谁", "t": "n", "st": { "q": "我不知道我是谁", "new": 0 } }, { "q": "我不知道你在想什么还时那个地点那条街", "t": "n", "st": { "q": "我不知道你在想什么还时那个地点那条街", "new": 0 } }, { "q": "我不知道该说什么 关于死亡还是爱情", "t": "n", "st": { "q": "我不知道该说什么 关于死亡还是爱情", "new": 0 } }, { "q": "我不知道你在想什么", "t": "n", "st": { "q": "我不知道你在想什么", "new": 0 } }, { "q": "我不说话不代表我不知道", "t": "n", "st": { "q": "我不说话不代表我不知道", "new": 0 } }, { "q": "我不知道
+
+SyntaxError: Unexpected token ' in JSON at position 10
+    at Object.parse (native)
+    at G:\Programme\Working\NodeJS\Working\SanSou\SanSou.js:397:35
+    at Request.callback (G:\Programme\Working\NodeJS\Working\SanSou\node_modules\superagent\lib\node\index.js:591:12)
+    at G:\Programme\Working\NodeJS\Working\SanSou\node_modules\superagent\lib\node\index.js:767:18
+    at Stream.<anonymous> (G:\Programme\Working\NodeJS\Working\SanSou\node_modules\superagent-charset\index.js:77:11)
+    at emitNone (events.js:86:13)
+    at Stream.emit (events.js:185:7)
+    at Unzip.<anonymous> (G:\Programme\Working\NodeJS\Working\SanSou\node_modules\superagent\lib\node\utils.js:108:12)
+    at emitNone (events.js:91:20)
+    at Unzip.emit (events.js:185:7)
+undefined:1
+{"q":"mao\'xi","p":false,"bs":"","csor":"0","status":0,"g":[ { "q": "冒险岛2", "t": "n", "st": { "q": "冒险岛2", "new": 0 } }, { "q": "冒险岛", "t": "n", "st": { "q": "冒险岛", "new": 0 } }, { "q": "毛晓彤", "t": "n", "st": { "q": "毛晓彤", "new": 0 } }, { "q": "毛新宇", "t": "n", "st": { "q": "毛新宇", "new": 0 } }, { "q": "冒险岛2官网", "t": "n", "st": { "q": "冒险岛2官网", "new": 0 } }, { "q": "冒险岛2乐谱", "t": "n", "st": { "q": "冒险岛2乐谱", "new": 0 } }, { "q": "冒险岛手游", "t": "n", "st": { "q": "冒险岛手游", "new": 0 } }, { "q": "冒险岛单机版", "t": "n", "st": { "q": "冒险岛单机版", "new": 0 } }, { "q": "冒险王", "t": "n", "st": { "q": "冒险王", "new": 0 } }, { "q": "冒险岛2韩服", "t": "n", "st": { "q": "冒险岛2韩服", "new": 0 } } ],"s":["冒险岛2","冒险岛","毛晓彤","毛新宇","冒险岛2官网","冒险岛2乐谱","冒险岛手游","冒险岛单机版","冒险王","冒险岛2韩服"]}
+          
+
+SyntaxError: Unexpected token ' in JSON at position 10
+    at Object.parse (native)
+    at G:\Programme\Working\NodeJS\Working\SanSou\SanSou.js:397:35
+    at Request.callback (G:\Programme\Working\NodeJS\Working\SanSou\node_modules\superagent\lib\node\index.js:591:12)
+    at G:\Programme\Working\NodeJS\Working\SanSou\node_modules\superagent\lib\node\index.js:767:18
+    at Stream.<anonymous> (G:\Programme\Working\NodeJS\Working\SanSou\node_modules\superagent-charset\index.js:77:11)
+    at emitNone (events.js:86:13)
+    at Stream.emit (events.js:185:7)
+    at Unzip.<anonymous> (G:\Programme\Working\NodeJS\Working\SanSou\node_modules\superagent\lib\node\utils.js:108:12)
+    at emitNone (events.js:91:20)
+    at Unzip.emit (events.js:185:7)
+undefined:1
+{"q":"xia\'xi","p":false,"bs":"","csor":"0","status":0,"g":[ { "q": "下线车", "t": "n", "st": { "q": "下线车", "new": 0 } }, { "q": "侠行天下", "t": "n", "st": { "q": "侠行天下", "new": 0 } }, { "q": "罅隙", "t": "n", "st": { "q": "罅隙", "new": 0 } }, { "q": "遐想", "t": "n", "st": { "q": "遐想", "new": 0 } }, { "q": "虾线", "t": "n", "st": { "q": "虾线", "new": 0 } }, { "q": "夏新", "t": "n", "st": { "q": "夏新", "new": 0 } }, { "q": "遐想网络", "t": "n", "st": { "q": "遐想网络", "new": 0 } }, { "q": "夏小虎", "t": "n", "st": { "q": "夏小虎", "new": 0 } }, { "q": "下弦月", "t": "n", "st": { "q": "下弦月", "new": 0 } }, { "q": "虾写", "t": "n", "st": { "q": "虾写", "new": 0 } } ],"s":["下线车","侠行天下","罅隙","遐想","虾线","夏新","遐想网络","夏小虎","下弦月","虾写"]}
+          ^
+
+SyntaxError: Unexpected token ' in JSON at position 10
+    at Object.parse (native)
+    at G:\Programme\Working\NodeJS\Working\SanSou\SanSou.js:397:35
+    at Request.callback (G:\Programme\Working\NodeJS\Working\SanSou\node_modules\superagent\lib\node\index.js:591:12)
+    at G:\Programme\Working\NodeJS\Working\SanSou\node_modules\superagent\lib\node\index.js:767:18
+    at Stream.<anonymous> (G:\Programme\Working\NodeJS\Working\SanSou\node_modules\superagent-charset\index.js:77:11)
+    at emitNone (events.js:86:13)
+    at Stream.emit (events.js:185:7)
+    at Unzip.<anonymous> (G:\Programme\Working\NodeJS\Working\SanSou\node_modules\superagent\lib\node\utils.js:108:12)
+    at emitNone (events.js:91:20)
+    at Unzip.emit (events.js:185:7)
+undefined:1
+{"q":"wu\'xi","p":false,"bs":"","csor":"0","status":0,"g":[ { "q": "无锡天气", "t": "n", "st": { "q": "无锡天气", "new": 0 } }, { "q": "五行天", "t": "n", "st": { "q": "五行天", "new": 0 } }, { "q": "无限挑战", "t": "n", "st": { "q": "无限挑战", "new": 0 } }, { "q": "无心法师", "t": "n", "st": { "q": "无心法师", "new": 0 } }, { "q": "五险一金", "t": "n", "st": { "q": "五险一金", "new": 0 } }, { "q": "无锡", "t": "n", "st": { "q": "无锡", "new": 0 } }, { "q": "吴秀波", "t": "n", "st": { "q": "吴秀波", "new": 0 } }, { "q": "无限极", "t": "n", "st": { "q": "无限极", "new": 0 } }, { "q": "无限火力", "t": "n", "st": { "q": "无限火力", "new": 0 } }, { "q": "无限挑战2017", "t": "n", "st": { "q": "无限挑战2017", "new": 0 } } ],"s":["无锡天气","五行天","无限挑战","无心法师","五险一金","无锡","吴秀波","无限极","无限火力","无限挑战2017"]}
+         ^
+
+SyntaxError: Unexpected token ' in JSON at position 9
+    at Object.parse (native)
+    at G:\Programme\Working\NodeJS\Working\SanSou\SanSou.js:397:35
+    at Request.callback (G:\Programme\Working\NodeJS\Working\SanSou\node_modules\superagent\lib\node\index.js:591:12)
+    at G:\Programme\Working\NodeJS\Working\SanSou\node_modules\superagent\lib\node\index.js:767:18
+    at Stream.<anonymous> (G:\Programme\Working\NodeJS\Working\SanSou\node_modules\superagent-charset\index.js:77:11)
+    at emitNone (events.js:86:13)
+    at Stream.emit (events.js:185:7)
+    at Unzip.<anonymous> (G:\Programme\Working\NodeJS\Working\SanSou\node_modules\superagent\lib\node\utils.js:108:12)
+    at emitNone (events.js:91:20)
+    at Unzip.emit (events.js:185:7)
+undefined:1
+{"q":"wu\'xian","p":false,"bs":"","csor":"0","status":0,"g":[ { "q": "无限挑战", "t": "n", "st": { "q": "无限挑战", "new": 0 } }, { "q": "五险一金", "t": "n", "st": { "q": "五险一金", "new": 0 } }, { "q": "无限极", "t": "n", "st": { "q": "无限极", "new": 0 } }, { "q": "无限火力头像", "t": "n", "st": { "q": "无限火力头像", "new": 0 } }, { "q": "无限幻斗", "t": "n", "st": { "q": "无限幻斗", "new": 0 } }, { "q": "无线网卡驱动", "t": "n", "st": { "q": "无线网卡驱动", "new": 0 } }, { "q": "无线路由器怎么设置", "t": "n", "st": { "q": "无线路由器怎么设置", "new": 0 } }, { "q": "无线网卡", "t": "n", "st": { "q": "无线网卡", "new": 0 } }, { "q": "无限恐怖", "t": "n", "st": { "q": "无限恐怖", "new": 0 } }, { "q": "五线谱", "t": "n", "st": { "q": "五线谱", "new": 0 } } ],"s":["无限挑战","五险一金","无限极","无限火力头像","无限幻斗","无线网卡驱动","无线路由器怎么设置","无线网�
+
+SyntaxError: Unexpected token ' in JSON at position 9
+    at Object.parse (native)
+    at G:\Programme\Working\NodeJS\Working\SanSou\SanSou.js:397:35
+    at Request.callback (G:\Programme\Working\NodeJS\Working\SanSou\node_modules\superagent\lib\node\index.js:591:12)
+    at G:\Programme\Working\NodeJS\Working\SanSou\node_modules\superagent\lib\node\index.js:767:18
+    at Stream.<anonymous> (G:\Programme\Working\NodeJS\Working\SanSou\node_modules\superagent-charset\index.js:77:11)
+    at emitNone (events.js:86:13)
+    at Stream.emit (events.js:185:7)
+    at Unzip.<anonymous> (G:\Programme\Working\NodeJS\Working\SanSou\node_modules\superagent\lib\node\utils.js:108:12)
+    at emitNone (events.js:91:20)
+    at Unzip.emit (events.js:185:7)
+double callback!
+double callback!
+double callback!
+double callback!
+double callback!
+double callback!
+double callback!
+double callback!
+double callback!
+double callback!
+double callback!
+double callback!
+double callback!
+double callback!
+double callback!
+double callback!
+double callback!

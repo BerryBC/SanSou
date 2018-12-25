@@ -1,0 +1,50 @@
+{
+    "ListenPort": 1089,
+    "GSocksHost": "127.0.0.1",
+    "GSocksPort": 1088,
+    "RequestNumOfOneTime": 30,
+    "ServerConfig": [
+        {
+            "Describe": "Baidu",
+            "URLFirst": "http://www.baidu.com/s?ie=utf-8&wd=",
+            "URLWhich": "&pn=",
+            "URLHowManyOneTime": "&rn=",
+            "MaxResultNumberClass": ".nums",
+            "EveryResultDivClass": ".result",
+            "HeadHTMLClass": ".t a",
+            "ShowURLClass": ".c-showurl",
+            "ContentClass": ".c-abstract",
+            "NeedSocks5": false,
+            "NumberOfEngine": 0,
+            "RealURLPara": null
+        },
+        {
+            "Describe": "Bing",
+            "URLFirst": "http://global.bing.com/search?adlt=off&q=",
+            "URLWhich": "&first=",
+            "URLHowManyOneTime": "&count=",
+            "MaxResultNumberClass": ".sb_count",
+            "EveryResultDivClass": ".b_algo",
+            "HeadHTMLClass": "h2 a ",
+            "ShowURLClass": ".b_attribution cite",
+            "ContentClass": ".b_caption p",
+            "NeedSocks5": false,
+            "NumberOfEngine": 1,
+            "RealURLPara": null
+        },
+        {
+            "Describe": "Google",
+            "URLFirst": "https://www.google.com.hk/search?safe=off&oe=utf-8&ie=utf-8&q=",
+            "URLWhich": "&start=",
+            "URLHowManyOneTime": "&num=",
+            "MaxResultNumberClass": ".sd",
+            "EveryResultDivClass": ".g",
+            "HeadHTMLClass": ".r a",
+            "ShowURLClass": "cite",
+            "ContentClass": ".st",
+            "NeedSocks5": false,
+            "NumberOfEngine": 2,
+            "RealURLPara": "q"
+        }
+    ]
+}

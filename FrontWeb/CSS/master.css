@@ -1,0 +1,439 @@
+body{
+	margin: 0px;
+	text-align: left;
+    background-color: rgba(82, 14, 70, 1); 
+    font-family: Helvetica, "Microsoft Yahei UI";
+
+}
+
+.main-body{
+	padding-left: 5%;
+	padding-right: 5%;
+	padding-top: 60px;
+  background:#FFF9FF;
+  padding-bottom: 20px;
+  -webkit-background-size:cover;
+  background-size:cover;
+  height: 100%;
+
+}
+
+
+
+.btn {
+  display: inline-block;
+  padding: 6px 12px;
+  margin-bottom: 0;
+  font-size: 14px;
+  font-weight: normal;
+  line-height: 1.428571429;
+  text-align: center;
+  white-space: nowrap;
+  vertical-align: middle;
+  cursor: pointer;
+  -webkit-user-select: none;
+     -moz-user-select: none;
+      -ms-user-select: none;
+       -o-user-select: none;
+          user-select: none;
+  background-image: none;
+  border: 1px solid transparent;
+  border-radius: 4px;
+}
+
+
+.btn-info {
+  color: #fff;
+  background-color: #5bc0de;
+  border-color: #46b8da;
+}
+.btn-info:hover,
+.btn-info:focus,
+.btn-info:active,
+.btn-info.active,
+.open .dropdown-toggle.btn-info {
+  color: #fff;
+  background-color: #39b3d7;
+  border-color: #269abc;
+}
+.btn-info:active,
+.btn-info.active,
+.open .dropdown-toggle.btn-info {
+  background-image: none;
+}
+.btn-info.disabled,
+.btn-info[disabled],
+fieldset[disabled] .btn-info,
+.btn-info.disabled:hover,
+.btn-info[disabled]:hover,
+fieldset[disabled] .btn-info:hover,
+.btn-info.disabled:focus,
+.btn-info[disabled]:focus,
+fieldset[disabled] .btn-info:focus,
+.btn-info.disabled:active,
+.btn-info[disabled]:active,
+fieldset[disabled] .btn-info:active,
+.btn-info.disabled.active,
+.btn-info[disabled].active,
+fieldset[disabled] .btn-info.active {
+  background-color: #5bc0de;
+  border-color: #46b8da;
+}
+.btn-info .badge {
+  color: #5bc0de;
+  background-color: #fff;
+}
+
+.navbar{
+	min-height: 50px;
+}
+
+.navbar-brand {
+  float: left;
+  height: 30px;
+  padding: 8px;
+  padding-left: 5%;
+  font-size: 30px;
+  line-height: 20px;
+  font-family: Trebuchet MS, snas-serif;
+  font-weight: bold;
+  color: #efefef;
+  line-height: normal;
+  text-decoration: none;
+  text-transform: uppercase; 
+}
+a {
+  color: #428bca;
+  text-decoration: none;
+}
+abbr[title],
+abbr[data-original-title] {
+  cursor: help;
+  border-bottom: 1px dotted #999;
+}
+.navbar-fixed-top {
+  position: fixed;
+  right: 0;
+  left: 0;
+  top:0;
+  z-index: 1030;
+}
+
+footer {
+
+
+  text-align: center;
+  padding: 20px 0;
+  padding-left: 15%;
+  background-color: rgba(82, 14, 70, 1);
+   }
+
+address {
+    margin-bottom: 20px;
+    font-style: normal;
+    line-height: 2;
+    color: #FFE0FF;
+  font-family: Trebuchet MS, snas-serif;
+
+  display: block;
+  }
+
+.navbar-default {
+  background-color: #821470;
+  border-bottom: 1px solid rgba(255, 255, 255, 0.2); }
+
+
+.navbar-default .navbar-brand a {
+  font-family: Trebuchet MS, snas-serif;
+  font-weight: bold;
+  color: #efefef;
+  line-height: normal;
+  text-decoration: none;
+  text-transform: uppercase; 
+  opacity:1;}
+
+.footer-inside{
+	width: 40%;
+  position: relative;
+  padding: 0px;
+margin: 0px;
+text-align: center;
+float: left;
+}
+
+
+.container {
+  padding-right: 15px;
+  padding-left: 15px;
+  margin-right: auto;
+  margin-left: auto;
+}
+
+
+.search-box {
+    position: relative;
+    float: left;
+    width: 30%;
+    padding: 14px 15px 12px 30px;
+    border: none;
+    z-index: 90;
+    opacity:1;
+}
+
+    .search-box input {
+        padding: 0px 0px 0px 0px;
+        border-radius: 4px;
+        font-size: 14px;
+        z-index: 100;
+        border: none;
+        padding-left: 10px;
+        padding-right: 10px;
+        font-family: Helvetica, "Microsoft Yahei UI";
+        height: 24px;
+        opacity:1;
+    }
+    .footer-phone{
+      display: none;
+    }
+
+
+h2 {
+  font-family: Trebuchet MS, snas-serif;
+  line-height: 1.1;
+  color: #4D3B3B;
+  font-weight: bold;
+  text-transform: uppercase;
+  margin-top: 40px;
+  margin-bottom: 20px;
+  font-size: 30px;
+   }
+
+#KeywordDiv {
+    font-family: Helvetica, "Microsoft Yahei UI";
+}
+
+    #KeywordDiv .WantKW {
+        border-radius: 4px;
+        width: 40%;
+        height: 40px;
+        font-size: 16px;
+        padding-left: 6px;
+        margin-bottom: 10px; 
+                border: 1px solid #ccc;
+
+    }
+
+
+    #KeywordDiv .InputDIV {
+        height: auto;
+        font-size: 18px;
+        text-align: left;
+        padding-bottom: 20px;
+        font-family: Helvetica, "Microsoft Yahei UI";
+    }
+
+#ShowResult {
+    font-family: Helvetica, "Microsoft Yahei UI";
+}
+
+.NOPage {
+    margin-top: 20px;
+    font-size: small;
+    font-family: Helvetica, "Microsoft Yahei UI";
+    text-align: left;
+    display:none;
+}
+
+    .NOPage .btn {
+        margin: 3px;
+            background-color: lightpink;
+          
+    }
+
+
+    .NOPage  #ContentPage .Chosen {
+        background-color: darkmagenta;
+        color:lavenderblush;
+    }
+
+.ShowResultCount {
+    margin-top: 20px;
+    font-size: small;
+    font-family: Helvetica, "Microsoft Yahei UI";
+    color: #808080;
+    text-align: right;
+    display: none;
+}
+
+.CannotFind {
+    font-family: Helvetica, "Microsoft Yahei UI";
+    margin-top: 20px;
+    text-align: center;
+}
+
+#ShowResult .ShowEveryResultInfo {
+    padding-top: 20px;
+    text-align: left;
+    width: 60%;
+}
+
+    #ShowResult .ShowEveryResultInfo .ResultHead {
+        font-size: 18px;
+        line-height: 1.2;
+        white-space: nowrap;
+        cursor: pointer;
+        text-decoration: none;
+        margin-top: 20px;
+        margin-bottom: 10px;
+        font-weight: 500;
+    }
+
+        #ShowResult .ShowEveryResultInfo .ResultHead em {
+            color: #EA4335;
+            font-style: normal;
+        }
+
+        #ShowResult .ShowEveryResultInfo .ResultHead a {
+            color: #1a0dab;
+        }
+
+
+            #ShowResult .ShowEveryResultInfo .ResultHead a:visited {
+                color: #609;
+            }
+
+    #ShowResult .ShowEveryResultInfo .ResultContent {
+        font-weight: normal;
+        color: #545454;
+        animation: none;
+        word-wrap: break-word;
+        line-height: 1.8;
+        font-family: Helvetica, "Microsoft Yahei UI";
+        font-size: 13.5px;
+    }
+
+        #ShowResult .ShowEveryResultInfo .ResultContent em {
+            color: #EA4335;
+            font-style: normal;
+        }
+
+    #ShowResult .ShowEveryResultInfo .ResultLink {
+        font-weight: normal;
+        line-height: 16px;
+        white-space: nowrap;
+        font-style: normal;
+        color: #006621;
+        font-size: 13px;
+        font-family: Helvetica, "Microsoft Yahei UI";
+        margin-top: auto;
+        line-height: 1.65;
+    }
+
+        #ShowResult .ShowEveryResultInfo .ResultLink .QuoteFrom {
+            font-size: 13px;
+            cursor: auto;
+            text-decoration: none;
+            color: #666;
+            font-family: Helvetica, "Microsoft Yahei UI";
+        }
+
+.home-search{
+margin-top:10%;
+margin-left:10%;
+position:absolute;
+width:60%;
+  font-family: Trebuchet MS, snas-serif;
+
+}
+
+.home-search .logo-word{
+  float: left;
+  height: 40px;
+  padding-right: 10px;
+  font-size: 40px;
+  line-height: 42px;
+  font-weight: bold;
+  color: #efefef;
+  text-decoration: none;
+  text-transform: uppercase; 
+
+}
+
+.home-search .WantKW {
+        border-radius: 4px;
+        width: 40%;
+        height: 40px;
+        font-size: 16px;
+        padding-right: 6px;
+        padding-left: 6px;
+        margin-bottom: 10px; 
+                border: 1px solid #ccc;
+
+    }
+
+.home-search .home-search-btn{
+    margin-left: 5px; 
+            height: 42px;
+
+}
+
+
+@media only screen and (min-resolution:192dpi),
+only screen and (-webkit-min-device-pixel-ratio:2),
+only screen and (min-device-width:768px) and (min-device-height:768px) and (max-device-width:1024px) {
+.footer-inside{
+display: none;
+}
+
+.navbar-brand {
+  font-size: 60px;
+}
+
+.navbar{
+	min-height: 100px;
+}
+
+
+.search-box {
+    width: 60%;
+        padding: 21px 15px 12px 30px;
+
+}
+
+    .search-box input {
+        font-size: 35px;
+        padding-left: 20px;
+        padding-right: 20px;
+        height: 56px;
+        
+    }
+  .footer-phone{
+      display: block;
+    }
+
+    footer {
+  padding: 0px;
+  }
+
+  address{
+    font-size: small;
+  }
+.main-body{
+	padding-top: 80px;
+}
+
+body{
+font-size: 1.5em;
+}
+
+.search-box {
+    width: 10%;
+}
+    #KeywordDiv .WantKW {
+        width: 20%;
+
+    }
+    #ShowResult .ShowEveryResultInfo {
+    width: 100%;
+}
+}

@@ -1,0 +1,13 @@
+ln /home/Berry/SanSouServer/SanSou/FrontWeb/index.html /var/www/html/index.html
+ln /home/Berry/SanSouServer/SanSou/FrontWeb/search.html /var/www/html/search.html
+ln /home/Berry/SanSouServer/SanSou/FrontWeb/JS /var/www/html/JS
+ln /home/Berry/SanSouServer/SanSou/FrontWeb/IMG /var/www/html/IMG
+ln /home/Berry/SanSouServer/SanSou/FrontWeb/CSS /var/www/html/CSS
+
+
+重启服务：
+supervisorctl restart SanSou
+
+
+发到服务器之后必须修改路径配置
+修改主程序以及Google的配置为不经代理

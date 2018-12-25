@@ -1,0 +1,112 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+	<title>SanShi Search</title>
+	<link rel="stylesheet" href="./CSS/master.css">
+	<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+	<script src="./JS/jquery.min.js" type="text/javascript"></script>
+	<script src="./JS/SanshiSearchWeb.js" type="text/javascript"></script>
+	<link rel="shortcut icon" href="./IMG/pTitle.ico">
+	<base target='_blank' />
+</head>
+
+<body>
+
+	<header class="navbar navbar-default navbar-fixed-top ">
+		<div class="container">
+
+			<div class="navbar-header">
+
+
+				<div class="navbar-brand">
+					<a href="/">三世书</a>
+
+				</div>
+			</div>
+		</div>
+		<div class="search-box">
+
+			<input id="SearchKW" value="" type="text" maxlength="255" placeholder="紧张的搜索引擎" autocomplete="off" onkeypress="IsPressEnter(event)"
+			/>
+
+		</div>
+
+
+	</header>
+	<div class="main-body">
+		<div class="container">
+			<div id="KeywordDiv">
+				<div class="wow bounceInLeft" data-wow-delay="0.1s" style="text-align: left;">
+					<h2 style="border-bottom-style: groove;">紧张的搜索引擎 ( Tense Search Engine )</h2>
+				</div>
+				<div style="text-align: left" class="InputDIV">
+					请输入关键字：
+					<input type="text" id="Text1" runat="server" class="WantKW" onkeypress="IsPressEnter(event)" /> &nbsp &nbsp
+					<input type="button" id="Button1" runat="server" class="btn btn-info" value="Go" onclick="IsPressEnter(event)" />&nbsp
+					&nbsp
+					<br />
+					<input type="checkbox" id="UseBaidu">包含百度结果?</inpupt>
+				</div>
+			</div>
+			<div id="ShowResult">
+
+			</div>
+			<div class="CannotFind" id="CannotFind">
+				<h2>正在为你找查结果哟~<br />
+					<img src="./IMG/Loading.gif" width="10%" /></h2>
+			</div>
+			<div style="text-align: right" class="ShowResultCount col-lg-12 col-md-12 col-sm-12 col-xs-12">
+				哎哟~为你找到 XX 条记录了！
+			</div>
+			<div class="NOPage col-lg-12 col-md-12 col-sm-12 col-xs-12">
+				<input type="button" value="<前一页" id="PreviousPage" class="btn" style="display:none;" />
+
+				<span id="ContentPage" style="position:static">
+
+                </span>
+				<input type="button" value="后一页>" id="NextPage" class="btn" style="display:none;" />
+
+			</div>
+
+
+
+		</div>
+	</div>
+	<footer>
+
+		<div class="footer-inside">
+
+			<address>
+				三世书系统<br />
+				<abbr title="Phone">Mobile: </abbr> 13430337730
+				<br />
+				<abbr title="E-Mail">E-Mail: </abbr>
+				<a href="mailto:13430337730@139.com">13430337730@139.com</a><br />
+				<abbr title="E-Mail">E-Mail: </abbr>
+				<a href="mailto:BerryBCLove@Gmail.com">BerryBCLove@Gmail.com</a><br />
+				<abbr title="E-Mail">E-Mail: </abbr>
+				<a href="mailto:Berry_BC_@163.com">Berry_BC_@163.com</a><br />
+				<br /> Copyright © 2015-2016.Berry Cui All rights reserved.<br />
+
+			</address>
+		</div>
+
+		<div class="footer-inside">
+			<address>
+				请我喝杯咖啡呗~<br /> 请扫支付宝二维码~
+				<br />
+				<img src="/IMG/zhifu.jpg" height="200" width="200" />
+			</address>
+		</div>
+		<div class="footer-phone">
+			<address>
+				Copyright © 2015-2016.Berry Cui All rights reserved.
+			</address>
+
+		</div>
+
+	</footer>
+</body>
+
+</html>
