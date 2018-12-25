@@ -1,8 +1,8 @@
-ln /home/Berry/SanSou/SanSou/FrontWeb/index.html /home/Berry/www/sansou/index.html
-ln /home/Berry/SanSou/SanSou/FrontWeb/search.html /home/Berry/www/sansou/search.html
-ln /home/Berry/SanSou/SanSou/FrontWeb/JS /home/Berry/www/sansou/JS
-ln /home/Berry/SanSou/SanSou/FrontWeb/IMG /home/Berry/www/sansou/IMG
-ln /home/Berry/SanSou/SanSou/FrontWeb/CSS /home/Berry/www/sansou/CSS
+sudo ln /home/Berry/SanSou/SanSou/FrontWeb/index.html /home/Berry/www/sansou/index.html
+sudo ln /home/Berry/SanSou/SanSou/FrontWeb/search.html /home/Berry/www/sansou/search.html
+sudo ln -s /home/Berry/SanSou/SanSou/FrontWeb/JS /home/Berry/www/sansou/JS
+sudo ln -s /home/Berry/SanSou/SanSou/FrontWeb/IMG /home/Berry/www/sansou/IMG
+sudo ln -s /home/Berry/SanSou/SanSou/FrontWeb/CSS /home/Berry/www/sansou/CSS
 
 
 重启服务：
@@ -11,8 +11,3 @@ supervisorctl restart SanSou
 
 发到服务器之后必须修改路径配置
 修改主程序以及Google的配置为不经代理
-
-
-/home/Berry/SanSou/SanSou/FrontWeb
-
-/home/Berry/www/sansou
